@@ -1,22 +1,32 @@
-
 //
 // VARIABLES
 //
 
 // Colors
-$blue: #4183C4;
+
+$blue: #4F95B6;//#568DA7;//#438EBB;//#B6E0F3; // http://www.colourlovers.com/palette/92095/Giant_Goldfish
+$orange: #FF7715;//#FA6900;
+$yellow: #F4EB06;//#8EACF4,#C8FF16,#FF548A,#F4EB06,#FCFFF3,#8EACF4,#C8FF16,#FF548A; // http://www.colourlovers.com/palette/4533611/Hou
+$green: #74F745;//#D1D1D1,#79FCFC,#74F745,#1820F7,#F1069B,#D1D1D1,#79FCFC,#74F745; // http://www.colourlovers.com/palette/4533567/Colors_3
+$ice: #79FCFC; // #79FCFC
+$magenta: #F1069B; //#F1069B
+$teal: #7CD8A2; //#AEEEFF,#7CD8A2,#74B44B,#808018,#6F3F08,#AEEEFF,#7CD8A2,#74B44B; // http://www.colourlovers.com/palette/4533559/Living_Plants
+$plant: #74B44B; //#74B44B
 
 // Grays
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
+$gray: #555;
+$transparentGray: rgba(255, 255, 255, 0.8);
+$lightGray: #ddd;
+$lighterGray: #eee;
 $white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$merriweather: 'Merriweather', Georgia, serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
