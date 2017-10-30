@@ -8,4 +8,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:victoriavaudry@gmail.com)
+[victoriavaudry@gmail.com](mailto:victoriavaudry@gmail.com)
