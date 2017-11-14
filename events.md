@@ -1,6 +1,5 @@
 # Digital Humanities Events
 
-
 #### Policy Ignite's Canada in the Digital World: The Good, the Bad and the Ugly.
 
 
