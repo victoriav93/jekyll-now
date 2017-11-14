@@ -1,6 +1,6 @@
-Alt-H1 Digital Humanities Events 
+#Digital Humanities Events 
 
-Alt-H2 Policy Ignite's Canada in the Digital World: The Good, the Bad and the Ugly.
+##Policy Ignite's Canada in the Digital World: The Good, the Bad and the Ugly.
 
 November 2nd, I attended Policy Ignite’s event Canada in the Digital World: The Good, the Bad and the Ugly. At first, heading to the event, I began to ponder ‘how will this event help me?’ or ‘how will this event be applicable to someone not working in the government?’, and the answers to my questions become increasingly clear as the night progressed; this event solidified exactly how imbedded digital tools are in our society, and more importantly, how the need for digital tools and advancements are only growing. While the main theme of the program revolved around the way that digital tools need to continue to find their way into government to enhance society and efficiency, I began to feel more at ease when I heard words like Github, or Slack, which I now know what they are and, debatably, how they work. Some of the talks covered topics such as Geomapping, creating space within government to share code and tools, how using digital tools could enhance efficiency, and the most applicable to our studies in Digital Humanities, is the need to incorporate the human into the digital.
             
