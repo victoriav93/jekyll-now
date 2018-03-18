@@ -20,13 +20,11 @@ On November 2nd, I attended Policy Ignite’s event Canada in the Digital World:
 -------------------------------------------------------------------------
 
 
-### Make Some Noise! Hands-on Electronic
-## Music at the Creator Space avec 
+### Make Some Noise! Hands-on Electronic: Music at the Creator Space avec 
 
 ---------------------------------------------------------------------------
 
-### Getting Your Work Out There: Publishing
-## in the Open avec / with Jeanette Hatherill & Sarah Simpkin
+### Getting Your Work Out There: Publishing in the Open avec / with Jeanette Hatherill & Sarah Simpkin
 
 
 
@@ -38,8 +36,7 @@ Les conditions de possibilite de la critique dramatique au XCIIe siecle.
 
 
 ----------------------------------------------------------------------------
-### Mapping the Holocaust with ArcGIS
-## with Miranda Brethour & Fiona Davidson
+### Mapping the Holocaust with ArcGIS with Miranda Brethour & Fiona Davidson
 
 ----------------------------------------------------------------------------
   
