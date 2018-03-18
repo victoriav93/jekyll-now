@@ -21,26 +21,25 @@ On November 2nd, I attended Policy Ignite’s event Canada in the Digital World:
 
 
 ### Make Some Noise! Hands-on Electronic
-## Music at the Creator Space
-# avec / with Julian Bertino & Simon Berniquez
+## Music at the Creator Space avec 
 
 ---------------------------------------------------------------------------
 
 ### Getting Your Work Out There: Publishing
-## in the Open
-# avec / with Jeanette Hatherill & Sarah Simpkin
+## in the Open avec / with Jeanette Hatherill & Sarah Simpkin
 
 
 
 Les périodiques dans l’écriture de l’histoire au XVIIe siècle
 Visualisation des billets vendu
-Les conditions de possibilité de la critique dramatique au XVIIe siècle : le cas du discours de Donneau de Visé sur la Sophonisbe
+Les conditions de possibilite de la critique dramatique au XCIIe siecle.
+
 ----------------------------------------------------------------------------
 
 
 ----------------------------------------------------------------------------
 ### Mapping the Holocaust with ArcGIS
-## avec / with Miranda Brethour & Fiona Davidson
+## with Miranda Brethour & Fiona Davidson
 
 ----------------------------------------------------------------------------
   
