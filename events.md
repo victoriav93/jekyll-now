@@ -1,14 +1,3 @@
-
-
-                Digital Humanities Events
-                
-                
-                
-                
-                
--------------------------------------------------------------------------
-
-
 ### Canada in the Digital World: The Good, the Bad and the Ugly
 
 
