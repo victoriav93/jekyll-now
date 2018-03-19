@@ -40,6 +40,7 @@ This event, part of the larger series of Digital Humanity events at Ottawa Unive
 ----------------------------------------------------------------------------
 ### Digital Humanities Lecture with Professor Greenspan 
 
+During this event, held in the Humanities department of Carleton University, three graduate students presented their work in the Digital Humanities. The lecture sought to demonstrate the growing work in Digital Humanities and the type of projects that are being completed here at Carleton Univeristy. The first of three speakers, from the English Department, spoke about her current project that created an online interface to display and organize the work of Matthew Mayhew's work. Secondly, an Anthopology student spoke about her upcoming project that intends to explore technological clothing culturally ( fitbits,clothing with lights or sounds,etc). Lastly, a history student presented his work which addressed the way that examining google searches could demonstrate public interest (or lack thereof) in history, contrary to public consensus. Ultimately, the lecture demonstrated how the digital has moved itself into the academic sphere to explore date and findings that change the way we experience the world.
 
 ----------------------------------------------------------------------------
 ### Mapping the Holocaust with ArcGIS with Miranda Brethour & Fiona Davidson
