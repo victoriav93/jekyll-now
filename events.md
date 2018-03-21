@@ -1,5 +1,5 @@
 
-!![file1](https://github.com/victoriav93/victoriav93.github.io/blob/master/images/Screen%20Shot%202018-03-20%20at%209.14.05%20PM.png?raw=true)
+![file1](https://github.com/victoriav93/victoriav93.github.io/blob/master/images/Screen%20Shot%202018-03-20%20at%209.14.05%20PM.png?raw=true)
 
 
 
