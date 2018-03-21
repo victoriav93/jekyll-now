@@ -18,9 +18,6 @@ During the lecture by Christophe Schuwey at the Carleton University Gordon Wood 
 
 ### Make Some Noise! Hands-on Electronic: Music at the Creator Space  
 
-
-![file] (https://github.com/victoriav93/victoriav93.github.io/blob/master/images/DH%20Toolbox.pdf)
-           
            
            
 This event at Ottawa University explored many ways in which digital tools can enhance the experience of music. At the lecture, tools could be paired with instruments to record and combine sound in new ways. Here, the musician could combine the sound of multiple instruments and play those sounds using only one instrument. This lecture demonstrated the way that these tools (open to the public during scheduled hours) can open up both digital tools and music. Here, people (particularly students) can use one instrument rather than needing to spend thousands on multiple instruments. In addition, the tools that could be combined with the instruments open up accessibility as those tools and instruments are available at the university. 
@@ -29,8 +26,7 @@ This event at Ottawa University explored many ways in which digital tools can en
 
 ### Getting Your Work Out There: Publishing in the Open avec / with Jeanette Hatherill & Sarah Simpkin
 
-        
-        
+       
         
         
 This event, part of the larger series of Digital Humanity events at Ottawa University explored what it means to publish in the open. At the core of the lecture was demonstrating to the audience a wide range of tools available to scholars looking to publish their work--these tools could inform them on the rules and restrictions of particular journals. Moreover, we explored the new ways that it is possible to publish in the open, that is to allow your work to be open to the public, such as with PressBooks. There are also tools like Sherpa/RoMEO that is a database of self-archiving policies for Copyright.
