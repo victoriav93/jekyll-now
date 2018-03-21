@@ -17,7 +17,7 @@ My name is Victoria, I am a Montreal transplant in Ottawa. I completed my Bachel
  
  
 
-Linkedin: [www.linkedin.com/in/victoria-vaudry-7079a8120]
+[Linkedin](www.linkedin.com/in/victoria-vaudry-7079a8120)
 
 
 Twitter: @VictoriaV0593 
