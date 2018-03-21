@@ -19,7 +19,7 @@ During the lecture by Christophe Schuwey at the Carleton University Gordon Wood 
 ### Make Some Noise! Hands-on Electronic: Music at the Creator Space  
 
 
-!(https://github.com/victoriav93/victoriav93.github.io/blob/master/images/DH%20Toolbox.pdf)
+![file] (https://github.com/victoriav93/victoriav93.github.io/blob/master/images/DH%20Toolbox.pdf)
            
            
            
