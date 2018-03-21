@@ -14,7 +14,12 @@ My name is Victoria, I am a Montreal transplant in Ottawa. I completed my Bachel
 ### Contact me
 
 [victoriavaudry@gmail.com](mailto:victoriavaudry@gmail.com)
-[www.linkedin.com/in/victoria-vaudry-7079a8120] (www.linkedin.com/in/victoria-vaudry-7079a8120)
+ 
+ 
+
+Linkedin: (www.linkedin.com/in/victoria-vaudry-7079a8120)
+
+
 Twitter: @VictoriaV0593 
 
 
